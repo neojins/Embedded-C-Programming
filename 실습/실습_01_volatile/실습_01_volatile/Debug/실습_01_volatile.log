@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Project\교육 Project\H사교육\Embedded System-20220129T154736Z-001\Embedded System\임베디드 시스템 C 프로그래밍\01_EmbeddedC_실습_2021.11.01\실습_01_volatile\main.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  실습_01_volatile.vcxproj -> D:\Project\교육 Project\H사교육\Embedded System-20220129T154736Z-001\Embedded System\임베디드 시스템 C 프로그래밍\01_EmbeddedC_실습_2021.11.01\실습_01_volatile\실습_01_volatile\Debug\실습_01_volatile.exe
